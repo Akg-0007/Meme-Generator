@@ -1,2 +1,2 @@
 working link of this project
-https://flourishing-choux-afe9c5.netlify.app
+https://voluble-lokum-9d2635.netlify.app/
